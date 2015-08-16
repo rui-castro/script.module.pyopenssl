@@ -2,7 +2,7 @@
 <addon id="script.module.pyopenssl"
        name="pyopenssl"
        version="1.0"
-       provider-name="Andrew Leech">
+       provider-name="Andrew Leech, Rui Castro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -13,6 +13,6 @@
     <description>Packed for Kodi from https://pypi.python.org/pypi/pyOpenSSL/0.13</description>
     <license>LGPL</license>
     <platform>all</platform>
-    <source>https://github.com/andrewleech/script.module.pyopenssl</source>
+    <source>https://github.com/rui-castro/script.module.pyopenssl</source>
   </extension>
 </addon>
